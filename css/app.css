@@ -83,16 +83,16 @@
 	margin-right: auto;
 	width: 75%; 
 	height: auto; 
-	padding-bottom: 5px; 
-	padding-top: 5px;
+	padding-bottom: 10px; 
+	padding-top: 10px;
 }
 .block_photo_left{
 	display: block;
 	margin-left: -250px;
 	margin-right: auto;
 	width: 75%; 
-	padding-bottom: 5px; 
-	padding-top: 5px;
+	padding-bottom: 10px; 
+	padding-top: 10px;
 	float: left;
 }
 
@@ -101,8 +101,8 @@
 	margin-left: auto;
 	margin-right: -250px;
 	width: 75%; 
-	padding-bottom: 5px; 
-	padding-top: 5px;
+	padding-bottom: 10px; 
+	padding-top: 10px;
 	float: right;
 }
 
@@ -110,13 +110,32 @@
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-	width: 75%; 
-	padding-bottom: 5px; 
-	padding-top: 5px;
+	padding-bottom: 10px; 
+	padding-top: 10px;
 }
 
-.caption_content{
-	float: inline;
+.caption_left p {
+	margin-left: 45px;
+	margin-right: auto;
+	padding-bottom: 10px; 
+	padding-top: 10px;
+	float: center;
+}
+
+.caption_right p {
+	margin-left: auto;
+	margin-right: 210px;
+	padding-bottom: 10px; 
+	padding-top: 10px;
+	float: right;
+}
+
+.caption_full p {
+	margin-left: auto;
+	margin-right: auto;
+	padding-bottom: 10px; 
+	padding-top: 10px;
+	float: center;
 }
 
 @media only screen and (max-width: 40em) {
