@@ -42,6 +42,10 @@
 	font-family: verdana;
 }
 
+.headertitle hr {
+	border-color:black;
+}
+
 div.headertitle{
 
 	position: absolute;
