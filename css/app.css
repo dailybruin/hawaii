@@ -157,22 +157,22 @@ font-size:1.3vmax;
 	margin-left: auto;
 	margin-right: auto;
 	padding-bottom: 10px; 
-	padding-top: 10px;
+	padding-top: 5px;
 }
 
 .caption_left p {
 	margin-left: 45px;
 	margin-right: auto;
 	padding-bottom: 10px; 
-	padding-top: 10px;
+	padding-top: 5px;
 	float: center;
 }
 
 .caption_right p {
 	margin-left: auto;
-	margin-right: 210px;
+	margin-right: 90px;
 	padding-bottom: 10px; 
-	padding-top: 10px;
+	padding-top: 5px;
 	float: right;
 }
 
@@ -182,6 +182,13 @@ font-size:1.3vmax;
 	padding-bottom: 10px; 
 	padding-top: 10px;
 	float: center;
+}
+
+.linebreak {
+    padding: 5px;
+    border-top: 2px solid rgba(0,0,0, 0.3);
+    margin-top: 40px;
+    margin-bottom: 40px;
 }
 
 @media only screen and (max-width: 40em) {
