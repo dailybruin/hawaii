@@ -46,6 +46,10 @@
 	border-color:black;
 }
 
+.headertitle p {
+	font-family:Helvetica, Sans-Serif;
+}
+
 div.headertitle{
 
 	position: absolute;
