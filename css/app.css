@@ -64,23 +64,24 @@ div.headertitle{
   background-color: rgba(192,192,192,0.7);
   border-radius: 10px;
   padding:25px;
-  padding-right:50px;
-  padding-left:50px;
+  padding-right:30px;
+  padding-left:30px;
 
 } 
 
 div.headertitle h2{
-	margin: 2%;
+margin-bottom: -4%;
   font-weight: bold;
   font-family: 'Droid Serif' , Serif;
   font-style: italic;
-  font-size:3.5vmax;
+  font-size:4.5vmax;
   /*color: #000000;*/
   /*background-color: rgba(0, 0, 0, 0.7);*/
   color: rgb(0,0,51);
 }
 
 div.headertitle p{
+	margin-top: -2%;
   color: rgb(0,0,51);
 font-family: 'Sans-Serif';
 font-size:1.3vmax;
