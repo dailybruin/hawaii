@@ -49,15 +49,7 @@
 div.headertitle{
 
 	position: absolute;
-	/*
-	float: left;
-  clear: left;
-    
-    margin: 100px;
-    margin-top: 30px;
-    margin-left: 300px;
-    */
-
+	
 
   top: 60%;
   left: 50%;
@@ -67,19 +59,9 @@ div.headertitle{
 
   background-color: rgba(192,192,192,0.7);
   border-radius: 10px;
-  padding:50px;
+  padding:25px;
   padding-right:100px;
   padding-left:100px;
-    /*
-      position: fixed;
-  top: 50%;
-  left: 50%;
-  */
-  /* bring your own prefixes */
-  /*
-  transform: translate(-50%, -50%);
-
-  filter: alpha(opacity=60); /* For IE8 and earlier */
 
 } 
 
